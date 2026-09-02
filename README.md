@@ -56,8 +56,8 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d471564b-fd36-4b94-b633-07c678e97e2d" />
 
-### Name:
-### Register Number: 
+### Name: Mohamed Ukkas R
+### Register Number: 212225040245
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
